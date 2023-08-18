@@ -1,7 +1,7 @@
 {
 
 "NEWGAME": {
-    "Active": true,
+    "Active": false,
     "RewardType": "Robux",
     "RewardValue": "1000000000"
 }
